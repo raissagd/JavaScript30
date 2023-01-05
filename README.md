@@ -3,3 +3,6 @@
 
 ### Hello there! I'll be doing the 30 Day Vanilla JS Challenge, by @wesbos! I'll try to upload the solutions daily 😊
 
+### Day one:
+Created a drum kit. When you play one of the available keys on your keyboard, it makes a sound. Learned a little about
+Event Listeners and how to do things without JQuery, only vanilla JavaScript.
