@@ -11,7 +11,7 @@ Event Listeners and how to do things without JQuery, only vanilla JavaScript.
 
 ### Day two: JS and CSS Clock
 
-Created an analog clock that works according to your computer time. Learned about Css transition & transform.
+Created an analog clock that works according to your computer time. Learned about CSS' transition & transform.
 
 ### Day three: CSS Variables
 
@@ -19,4 +19,8 @@ This time, I learned about the global scope CSS variables, and how you can updat
 
 ### Day four: Array Cardio day 1
 
-Learned a bunch of array methods! Like sort and reduce.
+Practiced and learned a bunch of array methods! Like sort and reduce.
+
+### Day five: Flex Panel Gallery
+
+Reviewed some CSS' flex properties and classList.toggle, applied when you click on an expandable panel.
