@@ -24,3 +24,7 @@ Practiced and learned a bunch of array methods! Like sort and reduce.
 ### Day five: Flex Panel Gallery
 
 Reviewed some CSS' flex properties and classList.toggle, applied when you click on an expandable panel.
+
+### Day six: Type Ahead
+
+Learned about Fetch API, getting .json() from fetch response, ES6 spread operator.
