@@ -28,3 +28,11 @@ Reviewed some CSS' flex properties and classList.toggle, applied when you click 
 ### Day six: Type Ahead
 
 Learned about Fetch API, getting .json() from fetch response, ES6 spread operator.
+
+### Day seven: Array Cardio day 2
+
+More array methods!
+
+### Day eight: Fun with HTML5 Canvas
+
+Today was really fun! Learned a bunch about HTML canvas, mouse events and flags.
