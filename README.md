@@ -36,3 +36,7 @@ More array methods!
 ### Day eight: Fun with HTML5 Canvas
 
 Today was really fun! Learned a bunch about HTML canvas, mouse events and flags.
+
+### Day nine: Dev Tools Domination
+
+Learned some useful Dev tools tricks, like console.group and groupEnd.
