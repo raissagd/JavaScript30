@@ -6,37 +6,41 @@
 
 ### Day one: JS Drum Kit
 
-Created a drum kit. When you play one of the available keys on your keyboard, it makes a sound. Learned a little about
+Thoughts: Created a drum kit. When you play one of the available keys on your keyboard, it makes a sound. Learned a little about
 Event Listeners and how to do things without JQuery, only vanilla JavaScript.
 
 ### Day two: JS and CSS Clock
 
-Created an analog clock that works according to your computer time. Learned about CSS' transition & transform.
+Thoughts: Created an analog clock that works according to your computer time. Learned about CSS' transition & transform.
 
 ### Day three: CSS Variables
 
-This time, I learned about the global scope CSS variables, and how you can update their values with JS. Using this concept, it was possible to create a sort of interactive picture, where you can define the size and color of the borders, besides the blur, using HTML'S range input types. Also got to know data attributes (store custom data) and dataset (an object that will contain all the data attributes of that specific element).
+Thoughts: This time, I learned about the global scope CSS variables, and how you can update their values with JS. Using this concept, it was possible to create a sort of interactive picture, where you can define the size and color of the borders, besides the blur, using HTML'S range input types. Also got to know data attributes (store custom data) and dataset (an object that will contain all the data attributes of that specific element).
 
 ### Day four: Array Cardio day 1
 
-Practiced and learned a bunch of array methods! Like sort and reduce.
+Thoughts: Practiced and learned a bunch of array methods! Like sort and reduce.
 
 ### Day five: Flex Panel Gallery
 
-Reviewed some CSS' flex properties and classList.toggle, applied when you click on an expandable panel.
+Thoughts: Reviewed some CSS' flex properties and classList.toggle, applied when you click on an expandable panel.
 
 ### Day six: Type Ahead
 
-Learned about Fetch API, getting .json() from fetch response, ES6 spread operator.
+Thoughts: Learned about Fetch API, getting .json() from fetch response, ES6 spread operator.
 
 ### Day seven: Array Cardio day 2
 
-More array methods!
+Thoughts: More array methods!
 
 ### Day eight: Fun with HTML5 Canvas
 
-Today was really fun! Learned a bunch about HTML canvas, mouse events and flags.
+Thoughts: Today was really fun! Learned a bunch about HTML canvas, mouse events and flags.
 
 ### Day nine: Dev Tools Domination
 
-Learned some useful Dev tools tricks, like console.group and groupEnd.
+Thoughts: Learned some useful Dev tools tricks, like console.group and groupEnd.
+
+### Day ten: Hold Shift and Check Checkboxes
+
+Thoughts: This is one was fairly simple but the logic was a bit tricky
