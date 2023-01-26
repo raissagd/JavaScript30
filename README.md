@@ -43,4 +43,8 @@ Thoughts: Learned some useful Dev tools tricks, like console.group and groupEnd.
 
 ### Day ten: Hold Shift and Check Checkboxes
 
-Thoughts: This is one was fairly simple but the logic was a bit tricky
+Thoughts: This is one was fairly simple but the logic was a bit tricky.
+
+### Day eleven: Custom Video Player
+
+Thoughts: Learned a bunch of video properties (that I knew nothing about) and some new parameters for the EventListener method.
