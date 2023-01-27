@@ -52,3 +52,7 @@ Thoughts: Learned a bunch of video properties (that I knew nothing about) and so
 ### 👉 Day twelve: Key Sequence Detection
 
 Thoughts: I like to pass keycodes to events handlers, and the cornify website's method was pretty funny.
+
+### 👉 Day thirteen: Slide in on Scroll
+
+Thoughts: Learned a bit of scrollX, scrollY and window events! Tricky math
