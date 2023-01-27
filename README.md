@@ -45,6 +45,10 @@ Thoughts: Learned some useful Dev tools tricks, like console.group and groupEnd.
 
 Thoughts: This is one was fairly simple but the logic was a bit tricky.
 
-### Day eleven: Custom Video Player
+### 👉 Day eleven: Custom Video Player
 
 Thoughts: Learned a bunch of video properties (that I knew nothing about) and some new parameters for the EventListener method.
+
+### 👉 Day twelve: Key Sequence Detection
+
+Thoughts: I like to pass keycodes to events handlers, and the cornify website's method was pretty funny.
