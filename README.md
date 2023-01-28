@@ -56,3 +56,5 @@ Thoughts: I like to pass keycodes to events handlers, and the cornify website's 
 ### 👉 Day thirteen: Slide in on Scroll
 
 Thoughts: Learned a bit of scrollX, scrollY and window events! Tricky math
+
+### 👉 Day fourteen: JavaScri
