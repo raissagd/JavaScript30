@@ -93,3 +93,9 @@ Reviwed a bit about Objects and Arrays References versus actually copying them.
 <details markdown='1'><summary>Loal Storage and Event Delegation</summary>
 Learned some useful stuff on local Storage & event delegation.
 </details>
+
+### 👉 Day sixteen:
+
+<details markdown='1'><summary>Mouse move shadow</summary>
+Learned more about handling mouse events, and using offsetX and offsetY to know where your cursor is.
+</details>
