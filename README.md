@@ -1,4 +1,4 @@
-# JavaScript30
+# 30 days of Vanilla JavaScript (JS30)
 
 ![](https://javascript30.com/images/JS3-social-share.png)
 
@@ -99,3 +99,8 @@ Learned some useful stuff on local Storage & event delegation.
 <details markdown='1'><summary>Mouse move shadow</summary>
 Learned more about handling mouse events, and using offsetX and offsetY to know where your cursor is.
 </details>
+
+### 👉 Day seventeen:
+
+<details markdown='1'><summary>Sort without articles</summary>
+Learned how to modify band names to sort them correctly, besides using map and regular expressions.</details>
