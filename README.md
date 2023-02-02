@@ -104,3 +104,8 @@ Learned more about handling mouse events, and using offsetX and offsetY to know 
 
 <details markdown='1'><summary>Sort without articles</summary>
 Learned how to modify band names to sort them correctly, besides using map and regular expressions.</details>
+
+### 👉 Day eighteen:
+
+<details markdown='1'><summary>Tally String Times with Reduce</summary>
+Learned more about 'Array.prototype.reduce()'</details>
