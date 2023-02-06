@@ -109,3 +109,8 @@ Learned how to modify band names to sort them correctly, besides using map and r
 
 <details markdown='1'><summary>Tally String Times with Reduce</summary>
 Learned more about 'Array.prototype.reduce()'</details>
+
+### 👉 Day nineteen:
+
+<details markdown='1'><summary>Webcam Fun</summary>
+Thoughts: It was too much fun today. Learned a lot about canvas and pipelining real-time images.</details>
