@@ -113,4 +113,14 @@ Learned more about 'Array.prototype.reduce()'</details>
 ### 👉 Day nineteen:
 
 <details markdown='1'><summary>Webcam Fun</summary>
-Thoughts: It was too much fun today. Learned a lot about canvas and pipelining real-time images.</details>
+Thoughts: Learned a lot about canvas and pipelining real-time images.</details>
+
+### 👉 Day twenty:
+
+<details markdown='1'><summary>Speech Detection</summary>
+Thoughts: It was too much fun today!! I had no idea about all the speech recognition functions on the browser.</details>
+
+### 👉 Day twenty-one:
+
+<details markdown='1'><summary>Geolocation</summary>
+Thoughts: Little fun and easy way to use your location to move the compass.</details>
