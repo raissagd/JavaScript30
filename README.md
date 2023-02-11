@@ -128,9 +128,9 @@ Thoughts: Little fun and easy way to use your location to move the compass.</det
 ### 👉 Day twenty-two:
 
 <details markdown='1'><summary>Follow Along Link Highlighter</summary>
-Thoughts: Little fun and easy way to use your location to move the compass.</details>
+Thoughts: Learned about the Element.getBoundingClientRect() method, and how it returns a DOMRect object providing information about the size of an element and its position relative to the viewport.</details>
 
 ### 👉 Day twenty-three:
 
 <details markdown='1'><summary>Speech Synthesis</summary>
-Thoughts: Little fun and easy way to use your location to move the compass.</details>
+Thoughts: Learned about the SpeechSynthesisUtterance, an interface of the Web Speech API represents that a speech request.</details>
