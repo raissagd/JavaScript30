@@ -124,3 +124,13 @@ Thoughts: It was too much fun today!! I had no idea about all the speech recogni
 
 <details markdown='1'><summary>Geolocation</summary>
 Thoughts: Little fun and easy way to use your location to move the compass.</details>
+
+### 👉 Day twenty-two:
+
+<details markdown='1'><summary>Follow Along Link Highlighter</summary>
+Thoughts: Little fun and easy way to use your location to move the compass.</details>
+
+### 👉 Day twenty-three:
+
+<details markdown='1'><summary>Speech Synthesis</summary>
+Thoughts: Little fun and easy way to use your location to move the compass.</details>
