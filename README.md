@@ -48,7 +48,7 @@ Thoughts: More array methods!
 </details>
 
 ### 👉 Day eight:
-
+![](https://github.com/raissagd/JavaScript30/blob/main/imgs/day8.PNG)
 <details markdown='1'><summary>Fun with HTML5 Canvas</summary>
 Thoughts: Today was really fun! Learned a bunch about HTML canvas, mouse events and flags.</details>
 
@@ -59,13 +59,13 @@ Thoughts: Learned some useful Dev tools tricks, like console.group and groupEnd.
 </details>
 
 ### 👉 Day ten:
-
+![](https://github.com/raissagd/JavaScript30/blob/main/imgs/day10.PNG)
 <details markdown='1'><summary>Hold Shift and Check Checkboxes</summary>
 Thoughts: This is one was fairly simple but the logic was a bit tricky.
 </details>
 
 ### 👉 Day eleven:
-
+![](https://github.com/raissagd/JavaScript30/blob/main/imgs/day11.PNG)
 <details markdown='1'><summary> Custom Video Player</summary>
 Thoughts: Learned a bunch of video properties (that I knew nothing about) and some new parameters for the EventListener method.
 </details>
@@ -131,6 +131,6 @@ Thoughts: Little fun and easy way to use your location to move the compass.</det
 Thoughts: Learned about the Element.getBoundingClientRect() method, and how it returns a DOMRect object providing information about the size of an element and its position relative to the viewport.</details>
 
 ### 👉 Day twenty-three:
-
+![](https://github.com/raissagd/JavaScript30/blob/main/imgs/day23.PNG)
 <details markdown='1'><summary>Speech Synthesis</summary>
 Thoughts: Learned about the SpeechSynthesisUtterance, an interface of the Web Speech API represents that a speech request.</details>
