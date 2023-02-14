@@ -147,3 +147,8 @@ Thoughts: Learned about the SpeechSynthesisUtterance, an interface of the Web Sp
 
 <details markdown='1'><summary>Sticky Nav</summary>
 Thoughts: Learned how to create a sticky navbar. It made me realise, that I only knew how to do that using Bootstrap.</details>
+
+### 👉 Day twenty-five:
+
+<details markdown='1'><summary>Event capture, propagation, and bubbling </summary>
+Thoughts: Great way to review some concepts about bubbling, a really important concept of frontend. </details>
