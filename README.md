@@ -152,3 +152,8 @@ Thoughts: Learned how to create a sticky navbar. It made me realise, that I only
 
 <details markdown='1'><summary>Event capture, propagation, and bubbling </summary>
 Thoughts: Great way to review some concepts about bubbling, a really important concept of frontend. </details>
+
+### 👉 Day twenty-six:
+
+<details markdown='1'><summary>Stripe follow along nav </summary>
+Thoughts: Learned a bunch of stuff about the logic behind creating such a complex dropdown navbar.</details>
