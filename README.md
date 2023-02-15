@@ -160,5 +160,7 @@ Thoughts: Learned a bunch of stuff about the logic behind creating such a comple
 
 ### 👉 Day twenty-seven:
 
+![](https://github.com/raissagd/JavaScript30/blob/main/imgs/day27.PNG)
+
 <details markdown='1'><summary>Click and drag</summary>
 Thoughts: Understood the basics behind the "Click and Drag to Scroll" challenge.</details>
