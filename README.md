@@ -155,5 +155,10 @@ Thoughts: Great way to review some concepts about bubbling, a really important c
 
 ### 👉 Day twenty-six:
 
-<details markdown='1'><summary>Stripe follow along nav </summary>
+<details markdown='1'><summary>Stripe follow along nav</summary>
 Thoughts: Learned a bunch of stuff about the logic behind creating such a complex dropdown navbar.</details>
+
+### 👉 Day twenty-seven:
+
+<details markdown='1'><summary>Click and drag</summary>
+Thoughts: Understood the basics behind the "Click and Drag to Scroll" challenge.</details>
