@@ -171,3 +171,17 @@ Thoughts: Understood the basics behind the "Click and Drag to Scroll" challenge.
 
 <details markdown='1'><summary>Video Speed Controller</summary>
 Thoughts: It was pretty fun to learn how to a video speed controller bar! Specially because I use them all the time.</details>
+
+### 👉 Day twenty-nine:
+
+<details markdown='1'><summary>Countdown timer</summary>
+Thoughts:  Learned about timestamps, set & clear intervals and Date.now()</details>
+
+### 👉 Day thirty:
+
+![](https://github.com/raissagd/JavaScript30/blob/main/imgs/day30.PNG)
+
+<details markdown='1'><summary>Whack a mole</summary>
+Thoughts: This last exercise was so fun! I love how simple yet fun the game turns out to be.</details>
+
+## The end!
